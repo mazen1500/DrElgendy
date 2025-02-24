@@ -11171,7 +11171,7 @@ p {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: flex;
+  display: block;
   align-items: flex-start;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
