@@ -11172,7 +11172,6 @@ p {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: block;
-  align-items: flex-start;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
