@@ -11651,9 +11651,12 @@ pre .code {
     min-height: auto !important;
   }
 }
-.contact-from-card{
+
+.mazen{
+  width: 100%;
+  height: 50%;
   display: flex;
-  flex-wrap: wrap
+  flex-wrap: wrap;
 }
 .contact .map {
   position: absolute;
