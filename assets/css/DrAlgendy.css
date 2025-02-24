@@ -11651,7 +11651,10 @@ pre .code {
     min-height: auto !important;
   }
 }
-
+.contact-from-card{
+  display: flex;
+  flex-wrap: wrap
+}
 .contact .map {
   position: absolute;
   left: 0;
